@@ -19,7 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone is about getting to know code and connecting 
+My first milestone is about getting to know code and connecting arduino board to my computer and how to make sure it is connected to my computer. Also i talked about what an arduino board is and how it works. Also I talked about useing code to turning servos from left to right 
 
-[![First Milestone] (https://www.youtube.com/watch?v=-2Ofl8-l4c) {:target="_blank" rel="noopener"}
+[![First Milestone] [![Blue Stamp First MileStone](https://res.cloudinary.com/marcomontalbano/image/upload/v1655487783/video_to_markdown/images/youtube--o4nikc6yJnE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=o4nikc6yJnE "Blue Stamp First MileStone") {:target="_blank" rel="noopener"}
 
