@@ -21,5 +21,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone is about getting to know code and connecting 
 
-[![First Milestone] (https://www.youtube.com/watch?v=-2Ofl8-l4c){:target="_blank" rel="noopener"}
+[![First Milestone] (https://www.youtube.com/watch?v=-2Ofl8-l4c) {:target="_blank" rel="noopener"}
 
